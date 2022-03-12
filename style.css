@@ -5,7 +5,7 @@
 }
 .header{
 	min-height:100vh;
-	background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(D:\webpic/3rdpic.jpg);
+	background-image:url(3rdpic.jpg);
 	background-position:center;
 	background-size:cover;
 	position:relative;
