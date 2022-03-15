@@ -1,4 +1,12 @@
-*{
+.page
+{
+	width:800px;
+	height:auto;
+	border-style:groove;
+}
+
+
+/*{
 	margin:o;
     padding:0;
 	
@@ -28,7 +36,7 @@ nav img{
 		list-style:none;
 		display:inline-block;
 		padding:8px 12px;
-		position:relative;
+		position:relative;*/
 		
 	
 	
