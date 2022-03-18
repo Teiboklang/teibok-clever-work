@@ -1,0 +1,61 @@
+
+.page
+{
+	width:100%;
+	height:auto;
+
+}
+	
+	
+.notice
+{	
+	width:100%;
+	height:autopx;
+	background-color:rgb(212,255,212);
+	border-style:solid;
+	color:black;
+	
+	text-align:center;
+	font-size:30px;
+}
+.addm
+{
+	color:blue;
+	font-size:40px;
+	margin-left:20%;
+
+}
+
+	.addm a:hover
+	{
+	    background-color:rgb(200,150,255);
+	 	background-color:rgb(100,200,251);
+	}
+	.page h3
+	{
+		margin-left:20%;
+		color:black;
+		font-size:30px;
+		
+	} 
+
+
+       
+	.image
+	{
+		margin-top:10px;
+		text-align:center;
+		width:200px;
+		height:90;
+		font-size:30px;
+		margin-left:30%;
+		border-style:solid;
+		background-color:red;
+		display:inline-block;
+	}
+	.apply
+	{
+		margin-right:20%;
+		float:right;
+	}
+		
